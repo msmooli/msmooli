@@ -2,7 +2,7 @@
 
 I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, I enjoy diving deep into the evolving threat landscape to build practical, real-world solutions.
 
-With experience in cloud platforms like Azure, AWS, and GCP I'm especially interested in securing cloud infrastructure and continuously learning how to strengthen systems at scale. Feel free to explore the projects below to see how I’ve contributed to improving security operations and building resilient environments.
+With experience in cloud platforms like Azure, AWS, and GCP, I'm especially interested in securing cloud infrastructure and continuously learning how to strengthen systems at scale. Feel free to explore the projects below to see how I’ve contributed to improving security operations and building resilient environments.
 
 
 ## ⚠️ Vulnerability Management Projects
