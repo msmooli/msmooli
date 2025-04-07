@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/Mark Mooli/">Mark Mooli</a>'s Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/Mark Mooli/">Mark Mooli</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, I enjoy diving deep into the evolving threat landscape to build practical, real-world solutions.
 
