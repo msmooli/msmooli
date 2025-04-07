@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/Mark Mooli/">Mark Mooli</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, I enjoy diving deep into the evolving threat landscape to build practical, real-world solutions.
+I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on projects. Whether it's vulnerability management, threat detection or cloud security. I enjoy diving deep into the evolving threat landscape to build practical, real-world solutions.
 
 I'm especially interested in securing cloud infrastructure and continuously learning how to strengthen systems at scale with cloud platforms like Azure, AWS, and GCP. Feel free to explore the projects below to see how I’ve contributed to improving security operations and building resilient environments.
 
