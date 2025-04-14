@@ -9,6 +9,10 @@ I'm especially interested in securing cloud infrastructure and continuously lear
 
 - **[Vulnerability Management Program Implementation](https://github.com/msmooli/Vulnerability-Management-Program/)**
 
+  ## Active Directory Home and Group Policy Project
+
+- **[Active Directory and Group Policy](https://github.com/msmooli/Active-Directory-and-Group-Policy-Home-Lab)**
+
 <hr/>
 
 ## 🤳 Connect With Me
