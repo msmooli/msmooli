@@ -9,6 +9,10 @@ I'm especially interested in securing cloud infrastructure and continuously lear
 
 - **[Vulnerability Management Program Implementation](https://github.com/msmooli/Vulnerability-Management-Program/)**
 
+## Building a SOC and Honeynet in Azure: Simulating, Attacking, and Remediating Threats
+
+- **[SOC and Honeynet in Azure](https://github.com/msmooli/azure-soc-honeynet)**
+
 ##  Threat Hunting Project
 
 - **[Threat Hunting Scenario](https://github.com/msmooli/threat-hunting-scenario-tor)**
