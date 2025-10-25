@@ -4,14 +4,13 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
 
 I'm especially interested in securing cloud infrastructure and continuously learning how to strengthen systems at scale with cloud platforms like Azure, AWS, and GCP. Feel free to explore the projects below to see how I’ve contributed to improving security operations and building resilient environments.
 
+## Implementing an Azure-Based SOC & Honeynet to Capture, Enrich, and Visualize VM Attack Data Using Microsoft Sentinel
+
+- **[SOC and Honeynet in Azure](https://github.com/msmooli/azure-soc-honeynet)**
 
 ##  Vulnerability Management Project
 
 - **[Vulnerability Management Program Implementation](https://github.com/msmooli/Vulnerability-Management-Program/)**
-
-## Building a SOC and Honeynet in Azure: Simulating, Attacking, and Remediating Threats
-
-- **[SOC and Honeynet in Azure](https://github.com/msmooli/azure-soc-honeynet)**
 
 ##  Threat Hunting Project
 
