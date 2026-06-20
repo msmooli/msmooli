@@ -1,8 +1,14 @@
-# <a href="https://www.linkedin.com/in/Mark Mooli/">Mark Mooli</a>'s Cybersecurity Project Portfolio 🔐
+# Mark Mooli - Cybersecurity Analyst
 
-I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on projects. Whether it's vulnerability management, threat detection or cloud security. I enjoy diving deep into the evolving threat landscape to build practical, real-world solutions.
+I'm passionate about cybersecurity with experience in vulnerability management, threat detection, and cloud security. I enjoy building practical solutions to real-world security challenges from securing cloud infrastructure to improving security operations at scale.
 
-I'm especially interested in securing cloud infrastructure and continuously learning how to strengthen systems at scale with cloud platforms like Azure, AWS, and GCP. Feel free to explore the projects below to see how I’ve contributed to improving security operations and building resilient environments.
+## Golden VM Image Pipeline
+
+- **[Golden VM Image Pipeline](https://github.com/msmooli/golden-vm-pipeline)**
+
+## Microsoft Sentinel Detection-as-code Pipeline
+
+- **[Sentinel Detection Engine](https://github.com/msmooli/Sentinel-Detection-Engine)**
 
 ## Implementing an Azure-Based SOC & Honeynet to Capture, Enrich, and Visualize VM Attack Data Using Microsoft Sentinel
 
