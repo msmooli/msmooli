@@ -1,6 +1,6 @@
 # Mark Mooli - Cybersecurity Analyst
 
-I'm passionate about cybersecurity with experience in vulnerability management, threat detection, and cloud security. I enjoy building practical solutions to solve real-world security challenges from securing cloud infrastructure to improving security operations.
+Cybersecurity analyst working across vulnerability management, threat detection, and cloud security. I build practical solutions to solve real-world security challenges from securing cloud infrastructure to improving security operations.
 
 ## Golden VM Image Pipeline
 
