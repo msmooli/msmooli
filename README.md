@@ -1,47 +1,36 @@
-# Mark Mooli - Cybersecurity Analyst
+# Mark Mooli - Cloud & Security Engineer
 
-Cybersecurity analyst working across vulnerability management, threat detection, and cloud security. I build practical solutions to solve real-world security challenges from securing cloud infrastructure to improving security operations.
+Cloud and security professional who builds secure, automated infrastructure in Microsoft Azure. I focus on infrastructure as code, vulnerability remediation, and CI/CD pipelines that make cloud and endpoint environments more resilient.
 
-## Golden VM Image Pipeline
+**Tools:** Azure · AWS · Terraform · Packer · GitHub Actions · Python · PowerShell · Linux · Windows Server · Microsoft Sentinel · Defender for Endpoint · Tenable
 
-- **[Golden VM Image Pipeline](https://github.com/msmooli/golden-vm-pipeline)**
+## Projects
 
-## Microsoft Sentinel Detection-as-code Pipeline
+### [Golden VM Image Pipeline](https://github.com/msmooli/golden-vm-pipeline)
+Automated pipeline that builds CIS Level 1 hardened RHEL 9 images weekly with Packer, Terraform, and GitHub Actions, published to Azure Compute Gallery and replicated across regions.
 
-- **[Sentinel Detection Engine](https://github.com/msmooli/Sentinel-Detection-Engine)**
+### [Sentinel Detection-as-Code Pipeline](https://github.com/msmooli/Sentinel-Detection-Engine)
+CI/CD pipeline that validates and tests Microsoft Sentinel detection rules against simulated MITRE ATT&CK techniques before deployment.
 
-## Implementing an Azure-Based SOC & Honeynet to Capture, Enrich, and Visualize VM Attack Data Using Microsoft Sentinel
+### [Vulnerability Management Program](https://github.com/msmooli/Vulnerability-Management-Program)
+Vulnerability management program built on Tenable Nessus: scanning, risk-based prioritization, remediation, and validation across Windows and Linux.
 
-- **[SOC and Honeynet in Azure](https://github.com/msmooli/azure-soc-honeynet)**
+### [DISA STIG Remediation](https://github.com/msmooli/DISA-STIGS)
+PowerShell scripts that remediate DISA STIG findings and enforce secure Windows configurations.
 
-##  Vulnerability Management Project
+### [Azure SOC & Honeynet](https://github.com/msmooli/azure-soc-honeynet)
+Azure honeynet built with VNets, NSGs, and VMs to capture live attacks, with Microsoft Sentinel and KQL used to enrich and map attack data.
 
-- **[Vulnerability Management Program Implementation](https://github.com/msmooli/Vulnerability-Management-Program/)**
+### [Active Directory & Group Policy Home Lab](https://github.com/msmooli/Active-Directory-and-Group-Policy-Home-Lab)
+Windows Server domain with users, groups, OUs, and Group Policy, with PowerShell-automated account creation.
 
-##  Threat Hunting Project
+### [Threat Hunting Scenario](https://github.com/msmooli/threat-hunting)
+Threat hunt using Microsoft Defender for Endpoint and KQL to investigate suspicious activity on an endpoint.
 
-- **[Threat Hunting Scenario](https://github.com/msmooli/threat-hunting-scenario-tor)**
+## Writing
 
-## Active Directory Home and Group Policy Project
+Project write-ups on [Medium](https://markmooli.medium.com)
 
-- **[Active Directory and Group Policy](https://github.com/msmooli/Active-Directory-and-Group-Policy-Home-Lab)**
+## Connect
 
-<hr/>
-
-## 🤳 Connect With Me
-
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/markmooli/___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/markmooli/
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
-
+[LinkedIn](https://www.linkedin.com/in/markmooli/) · [Medium](https://markmooli.medium.com)
