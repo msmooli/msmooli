@@ -1,6 +1,6 @@
 # Mark Mooli - Cloud & Security Engineer
 
-IT and Cybersecurity professional with experience in identity and access management, cloud infrastructure and vulnerability management.
+IT and Cybersecurity professional with experience in identity and access management, cloud infrastructure,security operations, vulnerability management.
 ## Projects
 
 ### [Golden VM Image Pipeline](https://github.com/msmooli/golden-vm-pipeline)
