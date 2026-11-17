@@ -1,9 +1,6 @@
 # Mark Mooli - Cloud & Security Engineer
 
-Cloud and security professional who builds secure, automated infrastructure in Microsoft Azure. I focus on infrastructure as code, vulnerability remediation, and CI/CD pipelines that make cloud and endpoint environments more resilient.
-
-**Tools:** Azure · AWS · Terraform · Packer · GitHub Actions · Python · PowerShell · Linux · Windows Server · Microsoft Sentinel · Defender for Endpoint · Tenable
-
+IT and Cybersecurity professional with experience in identity and access management, cloud infrastructure and vulnerability management.
 ## Projects
 
 ### [Golden VM Image Pipeline](https://github.com/msmooli/golden-vm-pipeline)
